@@ -1,6 +1,3 @@
-Here's a refined version of your report, ensuring clarity and professional presentation:
-
----
 
 ### **Neural Network Model Report: Alphabet Soup**
 
@@ -40,7 +37,7 @@ The purpose of this analysis is to develop a neural network model to predict the
    - Applied after each hidden layer to standardize activations, supporting faster convergence and reducing internal covariate shifts.
 
 - **Model Performance**:
-   - **Initial Performance**: The model initially achieved **73% accuracy**.
+   - **Initial Performance**: The model initially achieved close to a **73% accuracy**.
    - **Target Performance**: The goal was set to reach 75%, with subsequent optimizations incrementally improving accuracy but falling just short of the goal.
 
 ---
